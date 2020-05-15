@@ -1,7 +1,7 @@
 nav {
     background-color: #FF69B4;
     padding: 10px 10px 10px 10px;
-    border-radius: 10px;
+    border-radius: 20px;
 
 }
     
@@ -9,7 +9,7 @@ nav {
 a {
 
     font-family: arial;
-    color: rgb(248, 248, 255);
+    color: rgb(255,0,255);
     margin: 10px 10px 10px 10px;
     font-size: 1.2em;
     font-weight: 700;
